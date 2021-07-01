@@ -1,5 +1,5 @@
 <h1>PS5 Gewinnspiel auf SKY</h1>
-<p>Recommendation: do not actively use this script anymore. </p>
+<p>Recommendation: do not actively use this script anymore, since the SKY website might have changed and the ps5 lottery event is over.</p>
 
 
 <p>-- Version 3:
